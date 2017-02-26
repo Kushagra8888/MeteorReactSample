@@ -11,5 +11,3 @@ and shows a list of images with their details.
 ## Notable
 * Bootstrapping Meteor app
 * Basics of React
-
-![](imgur.png)
